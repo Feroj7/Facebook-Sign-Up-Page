@@ -1,0 +1,35 @@
+/* Responsive part start from here */
+
+@media all and (max-width:794px){
+.middle-area {
+    width: 95%;
+    
+}
+}
+@media all and (max-width:669px){
+.logo-area{
+	width:100%;
+	float:none;
+	margin-bottom:27px;
+}
+.login-area{
+	width:100%;
+	float:none;
+}
+.login-area form{
+	float:none;
+}
+.login-first{
+	float:none;
+}
+.login-second{
+	float:none;
+}
+.login-submit{
+	float:none;
+}
+.login-area input [type="text"],
+.login-area input [type="password"]{
+	width:100%;
+}
+}
